@@ -38,9 +38,10 @@ This project analyzes thousands of real tweets to uncover public sentiment towar
 ---
 
 ## Use Cases
-Understanding customer feedback
-Tracking brand perception on social media
-Real-time event sentiment monitoring
+
+-Understanding customer feedback
+-Tracking brand perception on social media
+-Real-time event sentiment monitoring
 
 
 
